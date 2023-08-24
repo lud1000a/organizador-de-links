@@ -1,0 +1,22 @@
+header{
+    background-color: #88CDF6;
+    text-decoration: none;
+    margin: 25px;
+}
+button{
+    border: none;
+}
+.media-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.voltar{
+    text-decoration: none;
+    color: white;
+}
+.itens{
+    margin: 20px;
+    text-decoration: none;
+    
+}
